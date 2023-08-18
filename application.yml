@@ -1,16 +1,19 @@
 --
-cook.special: cook78-config
+cook:
+  special: cook78-config
 ---
 spring:
   config:
     activate:
       on-profile: development
   
-cook.special: cook100-development
+cook:
+  special: cook100-development
 ---
 spring:
   config:
     activate:
       on-profile: encypt
   
-cook.special: cook100-encrytion
+cook:
+  special: cook100-encrytion
