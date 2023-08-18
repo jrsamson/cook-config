@@ -2,7 +2,9 @@ cook:
   menu: cook78-config
 ---
 spring:
-  profiles: menu
+  config
+    activate:
+      on-profile: menu
 
 cook:
   menu: cook100-menu
