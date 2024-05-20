@@ -1,8 +1,2 @@
-cook:
-  menu: cook78-config
----
-spring:
-  profiles: menu
-
-cook:
-  menu: cook100-menu
+cook
+  special: Pickled Cactus from dev
