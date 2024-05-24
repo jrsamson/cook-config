@@ -1,6 +1,6 @@
 spring:
   config:
     activate:
-      on-profile: development
+      on-profile: DEVELOPMENT
 cook:
   special: Pickled Cactus from dev
