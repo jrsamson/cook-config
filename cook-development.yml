@@ -1,2 +1,6 @@
+spring:
+  config:
+    activate:
+      on-profile: development
 cook:
   special: Pickled Cactus from dev
